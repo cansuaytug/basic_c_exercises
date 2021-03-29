@@ -1,4 +1,4 @@
-//1'den 1000'e kadar olan sayýlarýn toplamýný Toplam formülü kullanmadan bulan C programýný yazýnýz. 
+//1'den 1000'e kadar olan sayilarin toplamini Toplam formÃ¼lÃ¼ kullanmadan bulan C programini yaziniz. 
 
 
 #include <stdio.h>
